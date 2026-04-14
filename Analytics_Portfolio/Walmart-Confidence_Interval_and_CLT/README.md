@@ -1,4 +1,4 @@
-# CASE STUDY 5: Walmart Customer Purchase Behavior
+# CASE STUDY: Walmart Customer Purchase Behavior
 
 **Title:** How Walmart Can Optimize Marketing & Segmentation Using Customer Spend Data
 
